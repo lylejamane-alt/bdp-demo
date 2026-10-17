@@ -1,0 +1,32 @@
+2:"$Sreact.fragment"
+3:"/bdp-demo/_next/static/chunks/3taqkt_di2vz3.js"
+4:"/bdp-demo/_next/static/chunks/1wd7ye54mxggp.js"
+5:"/bdp-demo/_next/static/chunks/3ooq769og6e3g.js"
+6:"/bdp-demo/_next/static/chunks/1okh6wwh67hqj.js"
+7:I[39756,["$3","$4","$5","$6"],"default"]
+8:I[37457,["$3","$4","$5","$6"],"default"]
+d:"/bdp-demo/_next/static/chunks/13jk_zt6sme9f.js"
+e:"/bdp-demo/_next/static/chunks/3idu7n0okvn6s.js"
+f:I[16828,["$3","$4","$5","$6","$d","$e"],"DemoRoleBar"]
+10:"$Sreact.suspense"
+11:I[91304,["$3","$4","$5","$6","$d","$e"],"BookingDesk"]
+12:I[97367,["$3","$4","$5","$6"],"OutletBoundary"]
+15:"ViewportBoundary"
+16:I[97367,["$3","$4","$5","$6"],"$15"]
+17:"MetadataBoundary"
+18:I[97367,["$3","$4","$5","$6"],"$17"]
+19:I[27201,["$3","$4","$5","$6"],"IconMark"]
+a:X
+a:C
+b:X
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[[["$","header",null,{"className":"bg-[#111111] text-white","children":["$","div",null,{"className":"mx-auto max-w-6xl px-5 py-14 md:py-20","children":[["$","p",null,{"className":"text-[11px] font-semibold uppercase tracking-[0.22em] text-[#ff4d4d]","children":"Appointments · demo"}],["$","h1",null,{"className":"font-display mt-4 max-w-3xl text-4xl leading-[1.08] text-balance md:text-6xl","children":"Book a consultation from the open diary."}],["$","p",null,{"className":"mt-5 max-w-2xl text-base leading-relaxed text-white/75 md:text-lg","children":"Choose a practice area, an attorney or anyone who is free, and Rondebosch, the Garden Route or a virtual meeting. You only see times that attorney has set and that nobody else in this browser has taken. The example fee is shown with the time. Pay now is a demo checkout. Nothing is charged."}]]}]}],["$","div",null,{"className":"mx-auto w-full max-w-6xl px-5 py-14","children":[["$","$Lf",null,{"step":"booking","stay":true}],["$","$10",null,{"fallback":["$","p",null,{"children":"Loading the diary…"}],"children":["$","$L11",null,{}]}]]}]],[["$","script","script-0",{"src":"/bdp-demo/_next/static/chunks/13jk_zt6sme9f.js","async":true}],["$","script","script-1",{"src":"/bdp-demo/_next/static/chunks/3idu7n0okvn6s.js","async":true}]],["$","$L12",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}],"p":"$@14","v":null,"s":"$b"}}]]
+1:[["children",{"s":"book","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@9","v":"$a","s":"$b"},"c":"$Qc"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$10",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Book a consultation · BDP Attorneys demo"}],["$","meta","1",{"name":"description","content":"Illustrative appointment times for attorneys published by BDP Attorneys."}],["$","link","2",{"rel":"icon","href":"/bdp-demo/icon.svg?icon.105xk27s6x6jt.svg","sizes":"any","type":"image/svg+xml"}],["$","$L19","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1a","v":null,"s":"$b"}},"a":"$@1b","u":"$@1c","b":"NbGXuidsrRR0nzs6HNu8I"}
+13:null
+1c:true
+b:300
+b:C
+1b:0
+9:"$undefined"
+1a:"$undefined"
+14:"$undefined"

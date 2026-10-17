@@ -1,0 +1,33 @@
+2:"$Sreact.fragment"
+3:"/bdp-demo/_next/static/chunks/3taqkt_di2vz3.js"
+4:"/bdp-demo/_next/static/chunks/1wd7ye54mxggp.js"
+5:"/bdp-demo/_next/static/chunks/3ooq769og6e3g.js"
+6:"/bdp-demo/_next/static/chunks/1okh6wwh67hqj.js"
+7:I[39756,["$3","$4","$5","$6"],"default"]
+8:I[37457,["$3","$4","$5","$6"],"default"]
+d:"/bdp-demo/_next/static/chunks/0507z_qcpvu4x.js"
+e:"/bdp-demo/_next/static/chunks/3ypxhjv3h5rq2.js"
+f:"/bdp-demo/_next/static/chunks/3idu7n0okvn6s.js"
+10:I[16828,["$3","$4","$5","$6","$d","$e","$f"],"DemoRoleBar"]
+11:"$Sreact.suspense"
+12:I[26367,["$3","$4","$5","$6","$d","$e","$f"],"IntakeForm"]
+13:I[97367,["$3","$4","$5","$6"],"OutletBoundary"]
+16:"ViewportBoundary"
+17:I[97367,["$3","$4","$5","$6"],"$16"]
+18:"MetadataBoundary"
+19:I[97367,["$3","$4","$5","$6"],"$18"]
+1a:I[27201,["$3","$4","$5","$6"],"IconMark"]
+a:X
+a:C
+b:X
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[[["$","header",null,{"className":"bg-[#111111] text-white","children":["$","div",null,{"className":"mx-auto max-w-6xl px-5 py-14 md:py-20","children":[["$","p",null,{"className":"text-[11px] font-semibold uppercase tracking-[0.22em] text-[#ff4d4d]","children":"Smart intake · demo"}],["$","h1",null,{"className":"font-display mt-4 max-w-3xl text-4xl leading-[1.08] text-balance md:text-6xl","children":"Tell us what happened. We'll take it from there."}],["$","p",null,{"className":"mt-5 max-w-2xl text-base leading-relaxed text-white/75 md:text-lg","children":"Name, contact details, the town, and what happened, in your own words. The overview that goes to the internal inbox sets out the area, the urgency, a plain description of the matter, and what is still missing. It is not advice and it does not open a file."}]]}]}],["$","div",null,{"className":"mx-auto w-full max-w-6xl px-5 py-14","children":[["$","$L10",null,{"step":"intake"}],["$","$11",null,{"fallback":["$","p",null,{"children":"Loading the intake form…"}],"children":["$","$L12",null,{}]}]]}]],[["$","script","script-0",{"src":"/bdp-demo/_next/static/chunks/0507z_qcpvu4x.js","async":true}],["$","script","script-1",{"src":"/bdp-demo/_next/static/chunks/3ypxhjv3h5rq2.js","async":true}],["$","script","script-2",{"src":"/bdp-demo/_next/static/chunks/3idu7n0okvn6s.js","async":true}]],["$","$L13",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]]}],"p":"$@15","v":null,"s":"$b"}}]]
+1:[["children",{"s":"intake","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@9","v":"$a","s":"$b"},"c":"$Qc"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L17",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L19",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$11",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Smart intake · BDP Attorneys demo"}],["$","meta","1",{"name":"description","content":"Tell the story in your own words. The demo drafts an intake report for an attorney to read."}],["$","link","2",{"rel":"icon","href":"/bdp-demo/icon.svg?icon.105xk27s6x6jt.svg","sizes":"any","type":"image/svg+xml"}],["$","$L1a","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1b","v":null,"s":"$b"}},"a":"$@1c","u":"$@1d","b":"NbGXuidsrRR0nzs6HNu8I"}
+14:null
+1d:true
+b:300
+b:C
+1c:0
+9:"$undefined"
+1b:"$undefined"
+15:"$undefined"

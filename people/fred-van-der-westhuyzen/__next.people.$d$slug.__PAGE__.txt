@@ -1,0 +1,31 @@
+2:"$Sreact.fragment"
+3:"/bdp-demo/_next/static/chunks/3taqkt_di2vz3.js"
+4:"/bdp-demo/_next/static/chunks/1wd7ye54mxggp.js"
+5:"/bdp-demo/_next/static/chunks/3ooq769og6e3g.js"
+6:"/bdp-demo/_next/static/chunks/1okh6wwh67hqj.js"
+7:I[39756,["$3","$4","$5","$6"],"default"]
+8:I[37457,["$3","$4","$5","$6"],"default"]
+f:I[22016,["$3","$4","$5","$6"],""]
+10:I[97367,["$3","$4","$5","$6"],"OutletBoundary"]
+11:"$Sreact.suspense"
+14:"ViewportBoundary"
+15:I[97367,["$3","$4","$5","$6"],"$14"]
+16:"MetadataBoundary"
+17:I[97367,["$3","$4","$5","$6"],"$16"]
+18:I[27201,["$3","$4","$5","$6"],"IconMark"]
+a:X
+a:C
+b:X
+e:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[[["$","header",null,{"className":"bg-[#111111] text-white","children":["$","div",null,{"className":"mx-auto max-w-6xl px-5 py-14 md:py-20","children":[["$","p",null,{"className":"text-[11px] font-semibold uppercase tracking-[0.22em] text-[#ff4d4d]","children":"Director"}],["$","h1",null,{"className":"font-display mt-4 max-w-3xl text-4xl leading-[1.08] text-balance md:text-6xl","children":"Fred van der Westhuyzen"}],["$","p",null,{"className":"mt-5 max-w-2xl text-base leading-relaxed text-white/75 md:text-lg","children":"Director with a published background in corporate recoveries at BOE and FNB before joining the firm in 2012. His profile emphasises commercial work, debt collection and civil litigation, including arbitration and mediation."}]]}]}],["$","div",null,{"className":"mx-auto w-full max-w-6xl px-5 grid gap-8 py-14 lg:grid-cols-[auto_1fr]","children":[["$","div",null,{"className":"grid size-28 place-items-center bg-[#111] font-display text-4xl text-white","aria-hidden":true,"children":"FW"}],["$","div",null,{"className":"grid gap-8 md:grid-cols-2","children":[["$","section",null,{"className":"md:col-span-2 border border-border bg-white p-4","children":[["$","h2",null,{"className":"text-[11px] uppercase tracking-[0.16em] text-[#9b0000]","children":"Drafting profile"}],["$","p",null,{"className":"mt-2 text-sm","children":["Attorney"," · ","Commercial"]}],["$","p",null,{"className":"mt-2 text-sm leading-relaxed","children":"Signs in the first person of the firm. The contract or the company point first. A figure appears only when the file already states it."}],["$","$Lf",null,{"href":"/profiles","className":"mt-3 inline-block text-sm underline","children":"All drafting profiles"}]]}],["$","section",null,{"children":[["$","h2",null,{"className":"text-[11px] uppercase tracking-[0.16em] text-[#9b0000]","children":"Focus"}],["$","ul",null,{"className":"mt-3 space-y-2 text-sm","children":[["$","li","Commercial law",{"className":"border-b border-border py-2","children":"Commercial law"}],["$","li","Debt collection",{"className":"border-b border-border py-2","children":"Debt collection"}],["$","li","Litigation",{"className":"border-b border-border py-2","children":"Litigation"}]]}]]}],["$","section",null,{"children":[["$","h2",null,{"className":"text-[11px] uppercase tracking-[0.16em] text-[#9b0000]","children":"Published details"}],["$","dl",null,{"className":"mt-3 space-y-3 text-sm","children":[["$","div",null,{"children":[["$","dt",null,{"className":"text-muted-foreground","children":"Office"}],["$","dd",null,{"children":["$","$Lf",null,{"href":"/offices","className":"underline","children":"Tyger Valley"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"className":"text-muted-foreground","children":"Phone"}],["$","dd",null,{"children":["$","a",null,{"href":"tel:+27219417757","children":"021 941 7757"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"className":"text-muted-foreground","children":"Qualifications and admissions"}],["$","dd",null,{"children":"Attorney and notary"}]]}]]}],["$","$Lf",null,{"href":"/book?person=fred-van-der-westhuyzen","className":"mt-6 inline-flex h-11 items-center bg-[#d70000] px-4 text-sm font-semibold uppercase tracking-[0.12em] text-white","children":"Illustrative times"}]]}]]}]]}]],null,["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]]}],"p":"$@13","v":null,"s":"$b"}}]]
+c:[["children",{"s":{"n":"slug","t":"d","k":"fred-van-der-westhuyzen","s":[]},"h":96,"d":{"r":["$","$2","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@d","v":"$a","s":"$b"},"c":"$Qe"}]]
+1:[["children",{"s":"people","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@9","v":"$a","s":"$b"},"c":"$Qc"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L15",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$11",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Fred van der Westhuyzen · BDP Attorneys demo"}],["$","meta","1",{"name":"description","content":"A concept redesign of the public BDP Attorneys website, with Smart AI client tools demonstrated by 4th Industrial Solutions. Not the live firm site."}],["$","link","2",{"rel":"icon","href":"/bdp-demo/icon.svg?icon.105xk27s6x6jt.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@19","v":null,"s":"$b"}},"a":"$@1a","u":"$@1b","b":"NbGXuidsrRR0nzs6HNu8I"}
+12:null
+1b:true
+b:300
+b:C
+1a:0
+d:"$undefined"
+9:"$undefined"
+19:"$undefined"
+13:"$undefined"

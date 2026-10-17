@@ -1,0 +1,28 @@
+2:"$Sreact.fragment"
+3:"/bdp-demo/_next/static/chunks/3taqkt_di2vz3.js"
+4:"/bdp-demo/_next/static/chunks/1wd7ye54mxggp.js"
+5:"/bdp-demo/_next/static/chunks/3ooq769og6e3g.js"
+6:"/bdp-demo/_next/static/chunks/1okh6wwh67hqj.js"
+7:I[39756,["$3","$4","$5","$6"],"default"]
+8:I[37457,["$3","$4","$5","$6"],"default"]
+d:I[97367,["$3","$4","$5","$6"],"OutletBoundary"]
+e:"$Sreact.suspense"
+11:"ViewportBoundary"
+12:I[97367,["$3","$4","$5","$6"],"$11"]
+13:"MetadataBoundary"
+14:I[97367,["$3","$4","$5","$6"],"$13"]
+15:I[27201,["$3","$4","$5","$6"],"IconMark"]
+a:X
+a:C
+b:X
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[[["$","header",null,{"className":"bg-[#111111] text-white","children":["$","div",null,{"className":"mx-auto max-w-6xl px-5 py-14 md:py-20","children":[["$","p",null,{"className":"text-[11px] font-semibold uppercase tracking-[0.22em] text-[#ff4d4d]","children":"Careers"}],["$","h1",null,{"className":"font-display mt-4 max-w-3xl text-4xl leading-[1.08] text-balance md:text-6xl","children":"Come and work, on the firm’s published terms."}],["$","p",null,{"className":"mt-5 max-w-2xl text-base leading-relaxed text-white/75 md:text-lg","children":"This page repeats the careers invitation. It does not take an application. Write to the firm directly."}]]}]}],["$","div",null,{"className":"mx-auto w-full max-w-6xl px-5 grid gap-4 py-14 md:grid-cols-3","children":[[["$","article","Vacation work",{"className":"border border-border bg-white p-5","children":[["$","h2",null,{"className":"font-display text-3xl","children":"Vacation work"}],["$","p",null,{"className":"mt-3 text-sm leading-relaxed","children":"The firm’s holiday programmes are described as a way for students to see the work, apply what they have studied, and learn the culture of the office."}]]}],["$","article","Articles",{"className":"border border-border bg-white p-5","children":[["$","h2",null,{"className":"font-display text-3xl","children":"Articles"}],["$","p",null,{"className":"mt-3 text-sm leading-relaxed","children":"Training is offered to graduates who want to join as candidate legal practitioners. The published invitation is aimed at hardworking, well-balanced graduates with strong academic results."}]]}],["$","article","Other roles",{"className":"border border-border bg-white p-5","children":[["$","h2",null,{"className":"font-display text-3xl","children":"Other roles"}],["$","p",null,{"className":"mt-3 text-sm leading-relaxed","children":"For roles outside articles and vacation work, the firm asks candidates to write to info@bdplaw.co.za."}]]}]],["$","p",null,{"className":"md:col-span-3 text-sm","children":["Applications: ",["$","a",null,{"className":"underline","href":"mailto:info@bdplaw.co.za","children":"info@bdplaw.co.za"}]]}]]}]],null,["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],"p":"$@10","v":null,"s":"$b"}}]]
+1:[["children",{"s":"careers","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@9","v":"$a","s":"$b"},"c":"$Qc"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L12",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Careers · BDP Attorneys demo"}],["$","meta","1",{"name":"description","content":"Vacation work, articles and general applications at BDP Attorneys."}],["$","link","2",{"rel":"icon","href":"/bdp-demo/icon.svg?icon.105xk27s6x6jt.svg","sizes":"any","type":"image/svg+xml"}],["$","$L15","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@16","v":null,"s":"$b"}},"a":"$@17","u":"$@18","b":"NbGXuidsrRR0nzs6HNu8I"}
+f:null
+18:true
+b:300
+b:C
+17:0
+9:"$undefined"
+16:"$undefined"
+10:"$undefined"

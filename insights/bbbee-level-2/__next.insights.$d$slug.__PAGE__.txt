@@ -1,0 +1,31 @@
+2:"$Sreact.fragment"
+3:"/bdp-demo/_next/static/chunks/3taqkt_di2vz3.js"
+4:"/bdp-demo/_next/static/chunks/1wd7ye54mxggp.js"
+5:"/bdp-demo/_next/static/chunks/3ooq769og6e3g.js"
+6:"/bdp-demo/_next/static/chunks/1okh6wwh67hqj.js"
+7:I[39756,["$3","$4","$5","$6"],"default"]
+8:I[37457,["$3","$4","$5","$6"],"default"]
+f:I[22016,["$3","$4","$5","$6"],""]
+10:I[97367,["$3","$4","$5","$6"],"OutletBoundary"]
+11:"$Sreact.suspense"
+14:"ViewportBoundary"
+15:I[97367,["$3","$4","$5","$6"],"$14"]
+16:"MetadataBoundary"
+17:I[97367,["$3","$4","$5","$6"],"$16"]
+18:I[27201,["$3","$4","$5","$6"],"IconMark"]
+a:X
+a:C
+b:X
+e:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[[["$","header",null,{"className":"bg-[#111111] text-white","children":["$","div",null,{"className":"mx-auto max-w-6xl px-5 py-14 md:py-20","children":[["$","p",null,{"className":"text-[11px] font-semibold uppercase tracking-[0.22em] text-[#ff4d4d]","children":"10 June 2026 · AI-drafted placeholder"}],["$","h1",null,{"className":"font-display mt-4 max-w-3xl text-4xl leading-[1.08] text-balance md:text-6xl","children":"B-BBEE Level 2 contributor status"}],["$","p",null,{"className":"mt-5 max-w-2xl text-base leading-relaxed text-white/75 md:text-lg","children":"AI-drafted placeholder. The status itself is taken from the firm’s announcement, not invented for this demo."}]]}]}],["$","div",null,{"className":"mx-auto w-full max-w-6xl px-5 max-w-3xl py-14","children":[["$","p",null,{"className":"border border-[#d70000] bg-white px-4 py-3 text-sm","children":["Announcement published by the firm."," ",["$","a",null,{"className":"underline","href":"https://bdplaw.co.za/b-bbee-level-2-status/","children":"Read it on bdplaw.co.za"}],"."]}],["$","div",null,{"className":"mt-8 space-y-4 text-base leading-relaxed","children":[["$","p","In June 2026 the firm announced that Brink, De Beer & Potgieter Inc. had achieved Level 2 B-BBEE contributor status under the Legal Sector Code (Gazette 51271).",{"children":"In June 2026 the firm announced that Brink, De Beer & Potgieter Inc. had achieved Level 2 B-BBEE contributor status under the Legal Sector Code (Gazette 51271)."}],["$","p","The announcement is theirs. This page does not reproduce it. Follow the link for the note as published on bdplaw.co.za.",{"children":"The announcement is theirs. This page does not reproduce it. Follow the link for the note as published on bdplaw.co.za."}]]}],["$","$Lf",null,{"href":"/services/corporate-commercial","className":"mt-8 inline-block text-sm font-semibold uppercase tracking-[0.14em] text-[#9b0000]","children":"Corporate and Commercial Law"}]]}]],null,["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]]}],"p":"$@13","v":null,"s":"$b"}}]]
+c:[["children",{"s":{"n":"slug","t":"d","k":"bbbee-level-2","s":[]},"h":96,"d":{"r":["$","$2","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@d","v":"$a","s":"$b"},"c":"$Qe"}]]
+1:[["children",{"s":"insights","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@9","v":"$a","s":"$b"},"c":"$Qc"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L15",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$11",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"B-BBEE Level 2 contributor status · BDP Attorneys demo"}],["$","meta","1",{"name":"description","content":"A concept redesign of the public BDP Attorneys website, with Smart AI client tools demonstrated by 4th Industrial Solutions. Not the live firm site."}],["$","link","2",{"rel":"icon","href":"/bdp-demo/icon.svg?icon.105xk27s6x6jt.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@19","v":null,"s":"$b"}},"a":"$@1a","u":"$@1b","b":"NbGXuidsrRR0nzs6HNu8I"}
+12:null
+1b:true
+b:300
+b:C
+1a:0
+d:"$undefined"
+9:"$undefined"
+19:"$undefined"
+13:"$undefined"

@@ -1,0 +1,29 @@
+2:"$Sreact.fragment"
+3:"/bdp-demo/_next/static/chunks/3taqkt_di2vz3.js"
+4:"/bdp-demo/_next/static/chunks/1wd7ye54mxggp.js"
+5:"/bdp-demo/_next/static/chunks/3ooq769og6e3g.js"
+6:"/bdp-demo/_next/static/chunks/1okh6wwh67hqj.js"
+7:I[39756,["$3","$4","$5","$6"],"default"]
+8:I[37457,["$3","$4","$5","$6"],"default"]
+d:I[22016,["$3","$4","$5","$6"],""]
+e:I[97367,["$3","$4","$5","$6"],"OutletBoundary"]
+f:"$Sreact.suspense"
+12:"ViewportBoundary"
+13:I[97367,["$3","$4","$5","$6"],"$12"]
+14:"MetadataBoundary"
+15:I[97367,["$3","$4","$5","$6"],"$14"]
+16:I[27201,["$3","$4","$5","$6"],"IconMark"]
+a:X
+a:C
+b:X
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","div",null,{"className":"mx-auto max-w-3xl px-5 py-24","children":[["$","p",null,{"className":"text-[11px] font-semibold uppercase tracking-[0.2em] text-[#9b0000]","children":"404"}],["$","h1",null,{"className":"font-display mt-3 text-5xl","children":"That page is not on this demo."}],["$","p",null,{"className":"mt-4 text-sm leading-relaxed text-muted-foreground","children":"The address may belong to the live site, or it may be a mistype. The live site remains at bdplaw.co.za."}],["$","$Ld",null,{"href":"/","className":"mt-6 inline-flex h-11 items-center bg-[#111] px-4 text-sm text-white","children":"Back to the demo home"}]]}],null,["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}],"p":"$@11","v":null,"s":"$b"}}]]
+1:[["children",{"s":"/_not-found","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@9","v":"$a","s":"$b"},"c":"$Qc"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L13",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"BDP Attorneys · Concept demo"}],["$","meta","1",{"name":"description","content":"A concept redesign of the public BDP Attorneys website, with Smart AI client tools demonstrated by 4th Industrial Solutions. Not the live firm site."}],["$","link","2",{"rel":"icon","href":"/bdp-demo/icon.svg?icon.105xk27s6x6jt.svg","sizes":"any","type":"image/svg+xml"}],["$","$L16","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@17","v":null,"s":"$b"}},"a":"$@18","u":"$@19","b":"NbGXuidsrRR0nzs6HNu8I"}
+10:null
+19:true
+b:300
+b:C
+18:0
+9:"$undefined"
+17:"$undefined"
+11:"$undefined"

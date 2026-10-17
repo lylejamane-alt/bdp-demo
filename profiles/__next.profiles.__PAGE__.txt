@@ -1,0 +1,30 @@
+2:"$Sreact.fragment"
+3:"/bdp-demo/_next/static/chunks/3taqkt_di2vz3.js"
+4:"/bdp-demo/_next/static/chunks/1wd7ye54mxggp.js"
+5:"/bdp-demo/_next/static/chunks/3ooq769og6e3g.js"
+6:"/bdp-demo/_next/static/chunks/1okh6wwh67hqj.js"
+7:I[39756,["$3","$4","$5","$6"],"default"]
+8:I[37457,["$3","$4","$5","$6"],"default"]
+d:"/bdp-demo/_next/static/chunks/1gtyrc50nrr2i.js"
+e:I[57751,["$3","$4","$5","$6","$d"],"ProfileDesk"]
+f:I[97367,["$3","$4","$5","$6"],"OutletBoundary"]
+10:"$Sreact.suspense"
+13:"ViewportBoundary"
+14:I[97367,["$3","$4","$5","$6"],"$13"]
+15:"MetadataBoundary"
+16:I[97367,["$3","$4","$5","$6"],"$15"]
+17:I[27201,["$3","$4","$5","$6"],"IconMark"]
+a:X
+a:C
+b:X
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[[["$","header",null,{"className":"bg-[#111111] text-white","children":["$","div",null,{"className":"mx-auto max-w-6xl px-5 py-14 md:py-20","children":[["$","p",null,{"className":"text-[11px] font-semibold uppercase tracking-[0.22em] text-[#ff4d4d]","children":"Drafting profiles · demo"}],["$","h1",null,{"className":"font-display mt-4 max-w-3xl text-4xl leading-[1.08] text-balance md:text-6xl","children":"How each lawyer writes."}],["$","p",null,{"className":"mt-5 max-w-2xl text-base leading-relaxed text-white/75 md:text-lg","children":"Every attorney, associate and consulting lawyer has a department, a practice and a drafting style. Letters can follow that voice. Finance and human resources stay off this list."}]]}]}],["$","div",null,{"className":"mx-auto w-full max-w-6xl px-5 py-14","children":["$","$Le",null,{}]}]],[["$","script","script-0",{"src":"/bdp-demo/_next/static/chunks/1gtyrc50nrr2i.js","async":true}]],["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}],"p":"$@12","v":null,"s":"$b"}}]]
+1:[["children",{"s":"profiles","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@9","v":"$a","s":"$b"},"c":"$Qc"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$10",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Drafting profiles · BDP Attorneys demo"}],["$","meta","1",{"name":"description","content":"Style, practice and department for each attorney, associate and lawyer."}],["$","link","2",{"rel":"icon","href":"/bdp-demo/icon.svg?icon.105xk27s6x6jt.svg","sizes":"any","type":"image/svg+xml"}],["$","$L17","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@18","v":null,"s":"$b"}},"a":"$@19","u":"$@1a","b":"NbGXuidsrRR0nzs6HNu8I"}
+11:null
+1a:true
+b:300
+b:C
+19:0
+9:"$undefined"
+18:"$undefined"
+12:"$undefined"
